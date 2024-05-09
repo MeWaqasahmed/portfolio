@@ -190,7 +190,7 @@
             <h4>ReactJs</h4>
             <div class="skills-ilt">
               <div class="skills-bar reactjs"></div>
-              <span>25%</span>
+              <span>60%</span>
             </div>
           </div>
 
@@ -201,12 +201,19 @@
               <span>70%</span>
             </div>
           </div>
+          <div class="skills-box">
+            <h4>Meta ads managment</h4>
+            <div class="skills-ilt">
+              <div class="skills-bar python"></div>
+              <span>95%</span>
+            </div>
+          </div>
 
           <div class="skills-box">
             <h4>C++</h4>
             <div class="skills-ilt">
               <div class="skills-bar c"></div>
-              <span>20%</span>
+              <span>80%</span>
             </div>
           </div>
 
@@ -222,7 +229,7 @@
             <h4>PHP</h4>
             <div class="skills-ilt">
               <div class="skills-bar php"></div>
-              <span>40%</span>
+              <span>50%</span>
             </div>
           </div>
           
@@ -230,7 +237,7 @@
             <h4>SEO</h4>
             <div class="skills-ilt">
               <div class="skills-bar seo"></div>
-              <span>55%</span>
+              <span>70%</span>
             </div>
           </div>
 
@@ -238,7 +245,7 @@
             <h4>Blogging</h4>
             <div class="skills-ilt">
               <div class="skills-bar blogging"></div>
-              <span>70%</span>
+              <span>50%</span>
             </div>
           </div>
         </div>
@@ -403,7 +410,7 @@
     </section>
 
     <footer>
-      <p>Created By <span>Waqas Ahmed</span> | &copy; 2021 All rights reserved.</p>
+      <p>Created By <span>Waqas Ahmed</span> | &copy; 2024 All rights reserved.</p>
     </footer>
 
 
