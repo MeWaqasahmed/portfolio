@@ -25,7 +25,7 @@
         
         <div class="right">
 
-<form action="./signup.html" method="POST">
+<form action="../database/signupdb.php" method="POST">
 
             <div class="loginbox">
 

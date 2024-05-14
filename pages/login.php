@@ -1,4 +1,5 @@
 <?php
+include("../connection.php");
 include("../database/logindb.php");
 ?>
 
@@ -18,7 +19,7 @@ include("../database/logindb.php");
         <div class="left">
             <div class="leftimg"><img src="../software-developer-6521720_1280.jpg" alt="Left Image" /></div>
             <div class="head">
-                <h1 class="grey">Are you looking for a skill-full developer</h1>
+                <h1 class="grey">Are you looking for a skilled-full full_stack developer</h1>
                 <br />
                 <h class="blue"> Everything is possible in coding </h>
                 <br />
@@ -28,7 +29,7 @@ include("../database/logindb.php");
         
         <div class="right">
 
-<form action="../database/logindb.html" method="POST">
+<form action="../database/logindb.php" method="POST">
             <div class="loginbox">
                 <!-- <img  src="../images/msk.png" alt="Logo" class="logoimg" /> -->
                 <div class="logo"></div>

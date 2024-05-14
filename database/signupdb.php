@@ -15,7 +15,7 @@ if (isset($_POST['signup'])) {
     $exist = $conn->query($alreadyExist);
 
     if ($exist->num_rows > 0) {
-        header("Location: ../pages/login.html?error=email_exists");
+        header("Location: ../pages/login.php?error=email_exists");
         exit();
     } else {
 
@@ -24,9 +24,9 @@ if (isset($_POST['signup'])) {
             $authenticate = "INSERT INTO register (name, email, password, confirmpassword)
     VALUES ('$username', '$email', '$password' , '$conpassword')";
             $conn->query($authenticate);
-            header("location: ../pages/login.html");
+            header("location: ../pages/login.php");
         } else {
-            header("Location: ../pages/signup.html?error=password_mismatch");
+            header("Location: ../pages/signup.php?error=password_mismatch");
             exit();
         }
     }

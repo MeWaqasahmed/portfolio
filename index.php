@@ -117,7 +117,7 @@
         <div class="right" data-aos="fade-left" data-aos-duration="2000">
           <h1>I'm Waqas Ahmed <span id="type2"></span></h1>
           <p>
-            I'm 22 years old and i'm pursuing for BsCS  from a top ranked university (<a href="https://qau.edu.pk/" target="_blank">QAU</a>) of Pakistan . I have completed various projects as you can check them out on my <a href="https://github.com/MeWaqasahmed" target="_blank">Github</a>. If you like my projects and design then please give it a star. I have work experience of various Web Development and Python Development technologies. I mostly like to work on Frontend Development Projects with Frameworks.During my studies i am working as a CEO at <a href="https://github.com/MeWaqasahmed" target="_blank">Burak marketing agency</a>
+            I'm 22 years old and i'm pursuing for BsCS  from a top ranked university (<a href="https://qau.edu.pk/" target="_blank">QAU</a>) of Pakistan . I have completed various projects as you can check them out on my <a href="https://github.com/MeWaqasahmed" target="_blank">Github</a>. If you like my projects and design then please give it a star. I have work experience of various Web Development and Python Development technologies. I mostly like to work on Frontend Development Projects with Frameworks.During my studies i am working as a CEO at <a href="https://www.facebook.com/profile.php?id=61558871184155" target="_blank">Burak marketing agency</a>
           </p>
           <a href="Waqas_Ahmed_Resume.pdf" class="btn" target="_blank">Download Resume</a>
         </div>
